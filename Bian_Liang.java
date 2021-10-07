@@ -2,7 +2,7 @@ package basic;
 
 import java.util.Scanner;
 
-public class bianliang {
+public class Bian_Liang {
 
   //数值计算
   public static void main(String[] args) {

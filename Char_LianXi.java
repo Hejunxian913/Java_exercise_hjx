@@ -1,6 +1,6 @@
 package basic;
 
-public class CharLianxi {
+public class Char_LianXi {
 
   public static void main(String[] args) {
     String s1 = "Welcom";
