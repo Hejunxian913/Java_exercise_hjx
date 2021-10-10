@@ -1,0 +1,19 @@
+Index: src/basic/Exercise_9_6.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/basic/Exercise_9_6.java b/src/basic/Exercise_9_6.java
+new file mode 100644
+--- /dev/null	(date 1633709292141)
++++ b/src/basic/Exercise_9_6.java	(date 1633709292141)
+@@ -0,0 +1,9 @@
++package basic;
++
++public class Exercise_9_6 {
++
++  public static void main(String[] args) {
++
++  }
++
++}
