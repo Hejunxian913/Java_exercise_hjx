@@ -12,6 +12,8 @@ public class Mile {
       float mile = kilometer * beilv;
       System.out.printf("%-13d%-10.3f%n", kilometer, mile);
 
+      System.out.println("test");
+
     }
   }
 
